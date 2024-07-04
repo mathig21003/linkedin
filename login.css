@@ -1,0 +1,80 @@
+body {
+    background-color: lightblue;
+  }
+
+  #navbar {
+    display: flex;
+    position: absolute;
+    top: 10px;
+  }
+
+  #navbar li {
+    list-style: none;
+    padding: 20px;
+    position: relative;
+  }
+
+  #navbar1 {
+    display: flex;
+    position: absolute;
+    top: 12px;
+  }
+
+  #navbar1 li {
+    list-style: none;
+    padding: 19px;
+    position: relative;
+  }
+
+  .col2 {
+    color: rgb(89, 90, 91);
+  }
+
+  .col1 {
+    color: rgb(90, 153, 216);
+  }
+
+  .container {
+    padding: 16px;
+  }
+
+  .img {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+
+  .button2 {
+    background-color: #008CBA;
+    border-radius: 12px;
+    width: 240px;
+    height:40px;
+  }
+
+  .col {
+    color: rgb(205, 24, 24);
+    font-family: "Helvetica Neue, Helvetica, Arial, sans-serif";
+  }
+
+  .colh {
+    color: rgb(205, 24, 24);
+    font-family: "Helvetica Neue, Helvetica, Arial, sans-serif";
+  }
+
+  .col3 {
+    color: rgb(90, 153, 216);
+  }
+
+  .info {
+    border-color: #2196F3;
+    color: dodgerblue;
+  }
+
+  .gog {
+    border-radius: 12px;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+  }
+  .join{
+    color: rgb(90, 153, 216);
+  }

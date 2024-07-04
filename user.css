@@ -1,0 +1,100 @@
+body {
+    background-color: whitesmoke;
+    padding: 10px;
+  }
+
+  .container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .login {
+    border: 1px solid white;
+    padding: 30px;
+    width: 370px;
+
+    background-color: white;
+
+  }
+
+  .col1 {
+    color: rgb(90, 153, 216);
+  }
+
+  .col2 {
+    color: rgb(89, 90, 91);
+  }
+
+  .button2 {
+    background-color: #169bc8;
+    border-radius: 12px;
+    width: 240px;
+    height: 40px;
+  }
+
+  .gog {
+    border-radius: 12px;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .col3 {
+    color: rgb(132, 13, 171);
+    text-align: center;
+  }
+
+  .col4 {
+    color: rgb(132, 13, 171);
+    ;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .cen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #navbar1 {
+    padding: 8px;
+    
+    bottom: 0px;
+    margin-bottom: 0%;
+    text-decoration: none;
+    color:#888b8b;
+  }
+
+  #navbar1 li {
+    display: inline;
+    list-style: none;
+    padding: 19px;
+    text-decoration: none;
+    color:#888b8b;
+    font-family:serif;
+  }
+  #man{
+    border-style: none;
+  }
+  #navbar {
+    display: flex;
+    position: absolute;
+    top: 8px;
+  }
+  #navbar li {
+    list-style: none;
+    padding: 20px;
+    position: relative;
+    
+    
+  }
+  a{
+    color: black;
+  }
+label{
+align-items:"left";
+}
+   
